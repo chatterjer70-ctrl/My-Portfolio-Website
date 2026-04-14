@@ -43,7 +43,3 @@ Because this is a beautifully light-weight static site with no heavy node framew
 1. Simply navigate to the root folder on your computer.
 2. Double-click the `index.html` file. 
 3. The interactive site will automatically open and run smoothly inside your default web browser (Chrome, Edge, Safari, etc.).
-
----
-
-*Designed & Developed by Antigravity AI Assistant.*
